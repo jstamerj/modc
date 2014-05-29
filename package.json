@@ -1,0 +1,11 @@
+{
+  "name": "modc",
+  "private": true,
+  "version": "0.0.1",
+  "description": "module C",
+  "main": "lib",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
